@@ -54,7 +54,7 @@ letter-spacing: +1.5pt;
 /*ヘッダーのスタイル*/
 
 .head{
-	background-image:url(https://github.com/miu150729/portfolio/blob/main/header.png?raw=true);
+	background-image:url(images/header.png);
 	padding-top:100px;
 	padding-bottom:100px;
 	color:#FFF;
